@@ -1,0 +1,1 @@
+Sube index.html, jhonly-santos.png y la carpeta work a la raíz de tu repositorio de GitHub. Reemplaza el index.html anterior. Después espera a que GitHub Pages actualice el sitio.
